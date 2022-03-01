@@ -1,2 +1,2 @@
-# Proyecto-Pedro
+# Dashboard Power BI
 Proyecto de Github
